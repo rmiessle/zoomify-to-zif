@@ -1,4 +1,4 @@
-# Zoomify Tiles to ZIF Converter
+# Zoomify Tile Pyramid to ZIF Converter
 
 A Python command-line utility for packaging an existing **Zoomify JPEG tile pyramid** into a single **ZIF (Zoomable Image Format)** file based on BigTIFF.
 
